@@ -1,0 +1,33 @@
+{
+	"nodes":[
+		{"id":"eae3a5308f36e601","type":"text","text":"Skills For Data Related Jobs","x":-220,"y":112,"width":280,"height":50},
+		{"id":"877e98e34fa83ea0","type":"text","text":"Programming Language ","x":-580,"y":-156,"width":180,"height":50},
+		{"id":"14332ed08dd55ffd","type":"text","text":"PHYTON or R","x":-706,"y":-279,"width":166,"height":50},
+		{"id":"d36527fc4fff8046","type":"text","text":"Query Language ","x":-360,"y":-156,"width":140,"height":50},
+		{"id":"c06a474dccdb2c5d","type":"text","text":"SQL for Relational Database ","x":-440,"y":-279,"width":220,"height":50},
+		{"id":"49e0f20f265375ee","type":"text","text":"Technical Skills","x":-480,"y":-52,"width":160,"height":57},
+		{"id":"b5c5007bbeafc294","type":"text","text":"Functional Skills","x":-107,"y":-48,"width":167,"height":50},
+		{"id":"870059f0f75e481c","type":"text","text":"Soft Skills","x":200,"y":-52,"width":171,"height":50},
+		{"id":"921ec1bd72ee2db9","type":"text","text":"Being good at argumentation","x":-149,"y":-162,"width":209,"height":50},
+		{"id":"508f904294ed3cda","type":"text","text":"Good at reading statistics and data ","x":-169,"y":-279,"width":229,"height":55},
+		{"id":"9a56757476d44a17","type":"text","text":"being able to see patterns and identify correlations","x":-180,"y":-440,"width":250,"height":89},
+		{"id":"348f9a1297cc2021","type":"text","text":"Being a good Listener ","x":160,"y":-162,"width":211,"height":52},
+		{"id":"717efcf7cd326a3f","type":"text","text":"Technical Communication ","x":142,"y":-277,"width":250,"height":60},
+		{"id":"b17821f0a3685319","x":143,"y":-400,"width":228,"height":50,"type":"text","text":"Critical Thinking "}
+	],
+	"edges":[
+		{"id":"9d2db593d77d623b","fromNode":"eae3a5308f36e601","fromSide":"top","toNode":"49e0f20f265375ee","toSide":"bottom"},
+		{"id":"cccc9403dc65d3e3","fromNode":"eae3a5308f36e601","fromSide":"top","toNode":"b5c5007bbeafc294","toSide":"bottom"},
+		{"id":"e529fe02b6260450","fromNode":"eae3a5308f36e601","fromSide":"right","toNode":"870059f0f75e481c","toSide":"bottom"},
+		{"id":"9ec784da13ad409f","fromNode":"49e0f20f265375ee","fromSide":"top","toNode":"877e98e34fa83ea0","toSide":"bottom"},
+		{"id":"0c77daa77e50f2ad","fromNode":"877e98e34fa83ea0","fromSide":"top","toNode":"14332ed08dd55ffd","toSide":"bottom"},
+		{"id":"885c1f57a519ae19","fromNode":"49e0f20f265375ee","fromSide":"top","toNode":"d36527fc4fff8046","toSide":"bottom"},
+		{"id":"91c8cb65ff2bbd5b","fromNode":"d36527fc4fff8046","fromSide":"top","toNode":"c06a474dccdb2c5d","toSide":"bottom"},
+		{"id":"994b04001b381a68","fromNode":"b5c5007bbeafc294","fromSide":"top","toNode":"921ec1bd72ee2db9","toSide":"bottom"},
+		{"id":"3bc6402490b2bcc1","fromNode":"921ec1bd72ee2db9","fromSide":"top","toNode":"508f904294ed3cda","toSide":"bottom"},
+		{"id":"8fa503b55e63bb13","fromNode":"508f904294ed3cda","fromSide":"top","toNode":"9a56757476d44a17","toSide":"bottom"},
+		{"id":"1c7d40c8d3e96ed4","fromNode":"870059f0f75e481c","fromSide":"top","toNode":"348f9a1297cc2021","toSide":"bottom"},
+		{"id":"42cf3842282ad325","fromNode":"348f9a1297cc2021","fromSide":"top","toNode":"717efcf7cd326a3f","toSide":"bottom"},
+		{"id":"59d9f60cf3fd1b7f","fromNode":"717efcf7cd326a3f","fromSide":"top","toNode":"b17821f0a3685319","toSide":"bottom"}
+	]
+}
